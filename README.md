@@ -44,7 +44,7 @@ Firstly, you need to create a user or superuser. Then, navigate to this URL: htt
 1) Clone repository and go inside the repository folder "url-shortener-api"
 
 ```
-git clone https://github.com/sandrikkk/URL-Shortener-API.git
+git clone https://github.com/sandrikkk/Url-Shortener-with-authentication.git
 ```
 
 2) Create you virtualenv and install the packages
